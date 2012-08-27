@@ -94,6 +94,7 @@ var zen_settings = {
 			"ovs:p": "overflow-style:panner;",
 			"ovs:m": "overflow-style:move;",
 			"ovs:mq": "overflow-style:marquee;",
+			"ovha": "overflow:auto;",
 			"zoo": "zoom:1;",
 			"cp": "clip:|;",
 			"cp:a": "clip:auto;",
