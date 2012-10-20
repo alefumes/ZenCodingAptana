@@ -484,7 +484,6 @@ var zen_settings = {
 			"pgbb:al": "page-break-before:always;",
 			"pgbb:l": "page-break-before:left;",
 			"pgbb:r": "page-break-before:right;",
-			"pgbi": "page-break-inside:|;",
 			"pgbi:au": "page-break-inside:auto;",
 			"pgbi:av": "page-break-inside:avoid;",
 			"pgba": "page-break-after:|;",
