@@ -72,7 +72,6 @@ var zen_settings = {
 			"v": "visibility:|;",
 			"v:v": "visibility:visible;",
 			"v:h": "visibility:hidden;",
-			"v:c": "visibility:collapse;",
 			"ov": "overflow:|;",
 			"ov:v": "overflow:visible;",
 			"ovh": "overflow:hidden;",
